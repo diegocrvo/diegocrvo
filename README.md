@@ -27,4 +27,4 @@ Acredito no poder da colaboração e estou sempre em busca de contribuir com a c
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=diegocrvo&repo=dio-lab-open-source&bg_color=9ef01a&border_color=9ef01a&show_icons=true&icon_color=000&title_color=000&text_color=000)](https://github.com/diegocrvo/dio-lab-open-source)
 
 ## Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegocrvo&layout=compact&bg_color=9ef01a&border_color=9ef01a&title_color=E94D5F&text_color=FFF&hide_title=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegocrvo&layout=compact&bg_color=9ef01a&border_color=9ef01a&title_color=E94D5F&text_color=000&hide_title=true)
